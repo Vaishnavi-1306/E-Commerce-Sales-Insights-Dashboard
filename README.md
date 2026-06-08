@@ -1,7 +1,7 @@
 # E-Commerce Sales Insights Dashboard
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard_overview.png)
+![Dashboard](https://github.com/Vaishnavi-1306/E-Commerce-Sales-Insights-Dashboard/blob/main/Dashboard%201.png)
 
 
 ## Objective
