@@ -1,7 +1,7 @@
 # E-Commerce Sales Insights Dashboard
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard_3.png)
+![Dashboard](Screenshots/dashboard1.png)
 
 
 ## Objective
